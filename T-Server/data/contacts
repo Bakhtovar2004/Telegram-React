@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "firstName": "Telegram",
+    "lastName": "",
+    "avatar": "./telegram1.png"
+  },
+  {
+    "id": 2,
+    "firstName": "React JS vol.3",
+    "lastName": "",
+    "avatar": "https://ionicframework.com/docs/icons/logo-react-icon.png"
+  },
+  {
+    "id": 3,
+    "firstName": "Андрей",
+    "lastName": "Сергеевич",
+    "avatar": "https://avatars.mds.yandex.net/i?id=fa1506b9ca146a5ad8a5df50d987d7b59922c814-4284889-images-thumbs&n=13"
+  },
+  {
+    "id": 4,
+    "firstName": "John",
+    "lastName": "Doe",
+    "avatar": "https://st3.depositphotos.com/2056297/34111/i/1600/depositphotos_341111886-stock-photo-stylish-man-wearing-sunglasses-and.jpg"
+  },
+  {
+    "id": 5,
+    "firstName": "Ирина",
+    "lastName": "Сергеевна",
+    "avatar": "https://img.freepik.com/free-photo/young-and-beautiful-woman-in-pink-warm-sweater-natural-look-smiling-portrait-on-isolated-long-hair_285396-896.jpg"
+  },
+  {
+    "id": 6,
+    "firstName": "Коля",
+    "lastName": "Петрович",
+    "avatar": "https://thumbs.dreamstime.com/b/portrait-young-handsome-man-white-shirt-outdoor-portrait-young-handsome-man-white-shirt-outdoor-nice-appearance-131934608.jpg"
+  },
+  {
+    "id": 7,
+    "firstName": "Jackson",
+    "lastName": "",
+    "avatar": "https://i.guim.co.uk/img/media/c8058a18934197dbafebbfde03fbed96f5554004/0_142_4252_2552/master/4252.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=fcb0d9d4906a0570bef1b313ae807a80"
+  },
+  {
+    "id": 8,
+    "firstName": "Khabib",
+    "lastName": "Nurmagamedov",
+    "avatar": "https://cdn.siasat.com/wp-content/uploads/2020/10/ElIbOt4XUAAQw5J.jpg"
+  },
+  {
+    "id": 9,
+    "firstName": "Conor",
+    "lastName": "Mcgregor",
+    "avatar": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/3022677.png"
+  },
+  {
+    "id": 10,
+    "firstName": "Cristiano",
+    "lastName": "Ronaldo",
+    "avatar": "https://library.sportingnews.com/2023-01/cristiano-ronaldo-al-nassr-presentation.jpg"
+  },
+  {
+    "id": 11,
+    "firstName": "Leonel",
+    "lastName": "Messi",
+    "avatar": "https://static.mk.ru/upload/entities/2023/01/02/00/articles/facebookPicture/bc/e8/08/ef/cc1a5260e20c759da0adac7c2ecaf462.jpg"
+  },
+  {
+    "id": 12,
+    "firstName": "Mohammad",
+    "lastName": "Salah",
+    "avatar": "https://akcdn.detik.net.id/community/media/visual/2022/10/14/mohamed-salah.jpeg?w=700&q=90"
+  },
+  {
+    "id": 13,
+    "firstName": "Neymar",
+    "lastName": "",
+    "avatar": "https://i.pinimg.com/236x/b9/57/7e/b9577ee8486ed2705c0b5ca1b06df3eb.jpg"
+  },
+  {
+    "id": 14,
+    "firstName": "Benzema",
+    "lastName": "",
+    "avatar": "https://www.realmadrid.com/img/vertical_380px/380x501_benzema_20230215094340.jpg"
+  }
+]

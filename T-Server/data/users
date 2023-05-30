@@ -1,0 +1,25 @@
+[
+  {
+    "id": "af850da6-9a8a-417b-8697-ddd4066e6077",
+    "login": "bakhtovar",
+    "password": "123456",
+    "firstName": "Бахтовар",
+    "lastName": "Мамуров",
+    "status": true,
+    "phone": "+99292777777",
+    "email": "bakha7777@gmail.com",
+    "img": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=2000"
+  },
+  {
+    "id": "b54b60c7-a273-440b-80c6-fd4a914bbcef",
+    "login": "Iskandar",
+    "password": "123456",
+    "firstName": "Искандар",
+    "lastName": "Гадойбоев",
+    "status": true,
+    "phone": "+992925555555",
+    "email": "iskandar@gmail.com",
+    "img": "https://static8.depositphotos.com/1207999/1027/i/600/depositphotos_10275817-stock-photo-business-man.jpg"
+  }
+ 
+]
